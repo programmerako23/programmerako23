@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [memes](fb.com/programmerlang)
 
-# Connect with me:
+# Connect with us:
 
 <a href="https://fb.com/programmerlang" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="programmerlang" height="30" width="40" /></a>
 
