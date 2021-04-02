@@ -4,8 +4,6 @@
  <img src="https://komarev.com/ghpvc/?username=programmerako23&label=Profile%20views&color=0e75b6&style=flat" alt="programmerako23" />
  
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=programmerako23" alt="programmerako23" /></a> 
-
 - 🔭 I’m currently working on [memes](fb.com/programmerlang)
 
 # Connect with me:
